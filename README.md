@@ -6,5 +6,5 @@ The repository consists of the projects for 3 data analytical courses I took in 
 __-- EDA, Regressions and Classifications__.      
 How the individual components (i.e., features) of a loan, such as the amount loaned, the term length, or the interest rate, affect the profitability of a making a specific loan. In particular, they're interested in understanding how likely a loan is to be repaid and what type of return they can expect. 
 ## ACCY 571 Statistical Analyses for Accountancy
-##[Yelp Dataset exploration](https://github.com/Abby7LIU/Data-Analytical-projects-in-UIUC/blob/master/571_FInal.ipynb)
-Pick a region or city(We chose Champaign, Illinois) and use the provided yelp database to characterize the eating/spending habits of of the resident consumers. Your boss hasn't specified exactly what she is expecting you to find, so it is up to you best figure out how to determine the best location. We used SQL, visulization and machine learning tools to explore the customer's behaviour in Champaign.
+### [Yelp Dataset exploration](https://github.com/Abby7LIU/Data-Analytical-projects-in-UIUC/blob/master/571_FInal.ipynb)
+Pick a region or city(We chose Champaign, Illinois) and use the provided yelp database to characterize the eating/spending habits of of the resident consumers. Your boss hasn't specified exactly what she is expecting you to find, so it is up to you best figure out how to determine the best location. We used SQL, visulization machine learning and network analytical tools to explore the customer's behaviour in Champaign.
