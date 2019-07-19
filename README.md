@@ -8,3 +8,6 @@ How the individual components (i.e., features) of a loan, such as the amount loa
 ## ACCY 571 Statistical Analyses for Accountancy
 ### [Yelp Dataset exploration](https://github.com/Abby7LIU/Data-Analytical-projects-in-UIUC/blob/master/571_FInal.ipynb)
 Pick a region or city(We chose Champaign, Illinois) and use the provided yelp database to characterize the eating/spending habits of of the resident consumers. Your boss hasn't specified exactly what she is expecting you to find, so it is up to you best figure out how to determine the best location. We used SQL, visulization machine learning and network analytical tools to explore the customer's behaviour in Champaign.
+## ACCY 575 Data Analytics Applications in Accountancy
+### [Pcard:Violation Detection](https://github.com/Abby7LIU/Data-Analytical-projects-in-UIUC/blob/master/Pcard2.22-2.ipynb)
+###[Austin Bike Exploration(Tableau project)](https://github.com/Abby7LIU/Data-Analytical-projects-in-UIUC/blob/master/Austin%2BBike-2.ipynb)
